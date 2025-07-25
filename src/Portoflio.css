@@ -1,0 +1,6 @@
+.imghover:hover{
+    background-color: aqua;
+}
+.imghover{
+    transition: all 0.5s ease;
+}
