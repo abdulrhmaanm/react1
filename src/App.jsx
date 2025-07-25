@@ -2,7 +2,7 @@ import { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
-import Navbar from './navbar';
+import Navbar from './navbar.jsx';
 import Home from './Home';
 import About from './About';
 import Contact from './Contact';
